@@ -6,7 +6,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+//xin
 int main()
 {
 	string s,temp,c;

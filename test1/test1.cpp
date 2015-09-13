@@ -15,6 +15,7 @@ int main()
 	int i=0,invalid=0;			//invalidÎŞĞ§Æ±
 	int b;
 	int c;
+	int d;
 	while(cin>>s)
 	{
 		if (s.compare("addCandidate")==0)

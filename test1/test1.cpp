@@ -16,6 +16,7 @@ int main()
 	int b;
 	int c;
 	int d;
+	float ee;
 	while(cin>>s)
 	{
 		if (s.compare("addCandidate")==0)

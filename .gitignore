@@ -25,3 +25,9 @@ Thunbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile

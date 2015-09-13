@@ -14,8 +14,8 @@ int main()
 	int voteNum[255]={0};		//得票数数组
 	int i=0,invalid=0;			//invalid无效票
 	int b;
-	int c;
-	int d;
+	int eeee;
+	int eed;
 	float ee;
 	while(cin>>s)
 	{
